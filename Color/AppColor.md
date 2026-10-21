@@ -146,9 +146,9 @@
 | 页面、普通顶部区 | `bgBase` | `textPrimary` / `iconPrimary` | 说明 `textSecondary`，辅助 `textTertiary` |
 | 字段 | `bgField` | 值 `textPrimary`，标签 `textSecondary` | 焦点 `borderFocus`；错误底 `bgErrorTint`，文字 `feedbackError` |
 | 单选行未选 | `bgSurface2` | `textPrimary`、`textSecondary`、`iconSecondary` | 圈底 `bgControlOff` |
-| 单选行选中 | `bgBrandSelected`（待校准） | `textPrimary`，勾底 `iconBrand` | 当前页面画面与组件说明的选中底不一致，见校准清单 Q02 |
+| 单选行选中 | `bgBrandSelected`（待校准） | `textPrimary`，勾底 `iconBrand` | 页面画面与组件说明的选中底不一致（待校准） |
 | Chip 未选 | `bgSurfaceRaised` | `textPrimary` | 无描边 |
-| Chip 选中 | `brandPrimary`（待校准） | `textOnBrand` | 页面使用实色，组件说明使用浅品牌底；见 Q02 |
+| Chip 选中 | `brandPrimary`（待校准） | `textOnBrand` | 页面使用实色，组件说明使用浅品牌底（待校准） |
 | 主按钮 | `brandPrimary` | `textOnBrand` | 按下色是否切 `brandPrimaryPress`（待校准），现有按钮关闭独立按下覆盖 |
 | 次按钮 | `bgSurface2` | `textPrimary` | 文字型次操作使用 `textBrand` |
 | 禁用按钮 | `bgDisabled` | `textDisabled` | 不可点击 |
