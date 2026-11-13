@@ -1,6 +1,6 @@
 # EZB UI 和交互规则契约
 
-本库独立描述 EZB 的颜色机制、基础组件与 KYC 页面 UI、交互规则。阅读只依赖本库文字与表格，不依赖外部设计链接、截图或工程文件。
+本库独立描述 EZB 的颜色机制、基础组件与 KYC、Payment、定期存款页面 UI、交互规则。阅读只依赖本库文字与表格，不依赖外部设计链接、截图或工程文件。
 
 ## 文档索引
 
@@ -12,6 +12,7 @@
 | [基础组件/EzbAppBar.md](基础组件/EzbAppBar.md) | 导航栏布局、玻璃返回、内置文字、右侧操作与动态高度 |
 | [KYC/README.md](KYC/README.md) | Flow 02–05 的页面与交互契约索引 |
 | [Payment/README.md](Payment/README.md) | Payment Tab · T1–T4 UI与交互契约初稿（全Mock） |
+| [TimeDeposit/README.md](TimeDeposit/README.md) | 定期存款 TD1–TD4 逐页面 UI 与交互契约，含证明 PDF 与验真网页 |
 
 ## 阅读与维护
 
