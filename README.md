@@ -11,6 +11,7 @@
 | [基础组件/EzbScaffold.md](基础组件/EzbScaffold.md) | 容器默认值、导航栏优先级、滚动、安全区和键盘处理 |
 | [基础组件/EzbAppBar.md](基础组件/EzbAppBar.md) | 导航栏布局、玻璃返回、内置文字、右侧操作与动态高度 |
 | [KYC/README.md](KYC/README.md) | Flow 02–05 的页面与交互契约索引 |
+| [Payment/README.md](Payment/README.md) | Payment Tab · T1–T4 UI与交互契约初稿（全Mock） |
 
 ## 阅读与维护
 
